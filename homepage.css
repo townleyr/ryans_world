@@ -9,6 +9,8 @@ h3 {
 body{
     background-image: url('https://www.teahub.io/photos/full/69-699627_dark-forest-wallpapers-photo-widescreen-forest-1080p-dark.jpg');
     background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
 }
 
 
@@ -17,6 +19,7 @@ body{
     color: white;
     padding-top: 50px;
     padding-left: 7%;
+    padding-right: 7%;
 }
 
 .title{
