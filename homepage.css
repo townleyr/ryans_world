@@ -4,19 +4,13 @@ h3 {
     padding-left: 7%;
 }
 
-nav{
-    background-image: url(file:///D:/deskimggood.png);
-    }
+
 
 body{
     background-image: url('https://www.teahub.io/photos/full/69-699627_dark-forest-wallpapers-photo-widescreen-forest-1080p-dark.jpg');
 }
 
-.jumbotron{
-    text-align: center;
-    background-image: url(file:///D:/deskimggood.png);
-    height: 300px;
-}
+
 
 .h3extra{
     color: white;
@@ -24,6 +18,10 @@ body{
     padding-left: 7%;
 }
 
-.jumbotext{
+.title{
     color: white;
+    white-space: nowrap;
+    overflow: visible;
+    text-align: center;
+    
 }
