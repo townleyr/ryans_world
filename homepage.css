@@ -1,6 +1,3 @@
-ol{
-    padding-left: 10%;
-  }
 
 h3 {
     padding-top: 50px;
@@ -8,6 +5,25 @@ h3 {
 }
 
 nav{
-    outline: none;
-    box-shadow: none;
+    background-image: url(file:///D:/deskimggood.png);
     }
+
+body{
+    background-image: url('https://www.teahub.io/photos/full/69-699627_dark-forest-wallpapers-photo-widescreen-forest-1080p-dark.jpg');
+}
+
+.jumbotron{
+    text-align: center;
+    background-image: url(file:///D:/deskimggood.png);
+    height: 300px;
+}
+
+.h3extra{
+    color: white;
+    padding-top: 50px;
+    padding-left: 7%;
+}
+
+.jumbotext{
+    color: white;
+}
