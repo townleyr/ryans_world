@@ -1,14 +1,14 @@
 .row {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 4px;
+    padding: 0 6px;
   }
   
   /* Create four equal columns that sits next to each other */
   .column {
     flex: 25%;
     max-width: 25%;
-    padding: 0 4px;
+    padding: 0 6px;
   }
   
   .column img {
@@ -37,3 +37,10 @@
       padding-left: 200px;
      
   }
+
+  .ody{
+    background-image: url('https://www.teahub.io/photos/full/69-699627_dark-forest-wallpapers-photo-widescreen-forest-1080p-dark.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
