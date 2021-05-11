@@ -2,12 +2,12 @@ ol{
     padding-left: 10%;
   }
 
-
 h3 {
     padding-top: 50px;
     padding-left: 7%;
 }
 
 nav{
-    background-image: url('https://mdbcdn.b-cdn.net/img/svg/hamburger4.svg?color=1729B0');
+    outline: none;
+    box-shadow: none;
     }
